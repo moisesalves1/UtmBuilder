@@ -9,6 +9,7 @@
 *   Implicit Operators
 *   Modelar o domínio da aplicação
 *   Testes de Unidade
+*   .NET 7
 
 ## Tecnologias e versões utilizadas
 *   C#
